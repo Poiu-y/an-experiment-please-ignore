@@ -1,13 +1,14 @@
 type: flying
 flying: true
 speed: 0.8
-
 health: 750
-
 drag: 0.12
 accel: 0.2
-
 hitSize: 16
 rotateSpeed: 6
 engineOffset: 13
 engineSize: 1
+#down here is the actual test
+alwaysUnlocked:true
+payloadCapacity: 9
+pickupUnits: true
