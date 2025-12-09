@@ -10,5 +10,5 @@ engineOffset: 13
 engineSize: 1
 #down here is the actual test
 alwaysUnlocked:true
-payloadCapacity: 9
+payloadCapacity: 30
 pickupUnits: true
