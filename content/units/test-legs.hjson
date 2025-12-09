@@ -25,7 +25,7 @@ hitSize:12
 researchCostMultiplier:0
 #down here is the actual test
 alwaysUnlocked:true
-payloadCapacity: 900
+payloadCapacity: 3000
 pickupUnits: true
 #allowLegStep:true
 #legPhysicsLayer:true
