@@ -26,3 +26,4 @@ researchCostMultiplier:0
 #down here is the actual test
 alwaysUnlocked:true
 payloadCapacity: 9
+pickupUnits: true
