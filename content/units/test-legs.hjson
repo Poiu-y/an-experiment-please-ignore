@@ -27,3 +27,5 @@ researchCostMultiplier:0
 alwaysUnlocked:true
 payloadCapacity: 30
 pickupUnits: true
+allowLegStep:true
+legPhysicsLayer:true
