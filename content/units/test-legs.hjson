@@ -1,0 +1,27 @@
+type:legs
+name:Anthos
+description: "a test of game mechanics, just a placeholder"
+details:"(if this works, some mechanics of this will be added to ich at some point)"
+hideDetails:false
+speed:0.5
+health:180
+commands:[move, repair, rebuild, assist]
+armor:1
+flying:false
+mineTier:1
+mineFloor:true
+mineSpeed:3.4
+legExtension:-2.5
+buildSpeed:0.6
+legMoveSpace:0.9
+hovering:false
+isEnemy:false
+legCount:6
+legSpeed:0.56
+legForwardScl:0.56
+itemCapacity:10
+outlineColor:00413c
+hitSize:12
+researchCostMultiplier:0
+alwaysUnlocked:true
+payloadCapacity: 9
