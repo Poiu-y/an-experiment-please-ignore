@@ -1,4 +1,4 @@
-type: flying
+type:payload
 flying: true
 speed: 0.8
 health: 750
