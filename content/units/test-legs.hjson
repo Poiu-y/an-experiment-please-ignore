@@ -28,6 +28,6 @@ alwaysUnlocked:true
 payloadCapacity: 30
 pickupUnits: true
 allowLegStep:true
-#legPhysicsLayer:true
-#legRegion: test-legs-leg
-#legBaseRegion: test-legs-leg-base
+legPhysicsLayer:true
+legRegion: test-legs-leg
+legBaseRegion: test-legs-leg-base
