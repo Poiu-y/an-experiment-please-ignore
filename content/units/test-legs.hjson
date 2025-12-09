@@ -1,4 +1,4 @@
-type:legs
+type:payload
 name:no
 description: "a test of game mechanics, just a placeholder"
 details:"(if this works, some mechanics of this will be added to ich at some point)"
