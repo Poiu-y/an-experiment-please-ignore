@@ -27,9 +27,11 @@ omniMovement: false
 faceTarget: false
 lowAltitude:true
 engines: [
-  x: 0
-  y: -9
-  radius: 1.5
+  {
+    x: 0
+    y: -9
+    radius: 1.5
+  }
 ]
 weapons: [
   {
