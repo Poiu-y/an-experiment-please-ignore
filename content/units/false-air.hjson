@@ -24,7 +24,7 @@ legBaseOffset:5
 legStraightLength:3
 legLength: 20
 lockLegBase: true
-legContinuousMove: true
+legContinuousMove: false
 itemCapacity:10
 outlineColor: 44413c
 hitSize:20
@@ -32,6 +32,9 @@ researchCostMultiplier:0
 omniMovement: false
 faceTarget: false
 lowAltitude:true
+useEngineElevation:false
+rippleScale: 0
+wobble:true
 engines: [
   {
     x: 0
