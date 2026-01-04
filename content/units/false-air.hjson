@@ -11,7 +11,7 @@ flying:true
 mineTier:1
 mineFloor:true
 mineSpeed:3.4
-legExtension:-2.5
+legExtension:-5
 buildSpeed:0.6
 legMoveSpace:0.9
 hovering:false
@@ -19,6 +19,8 @@ isEnemy:false
 legCount:8
 legSpeed:0.56
 legForwardScl:0.56
+lockLegBase: true
+legContinuousMove: true
 itemCapacity:10
 outlineColor: 44413c
 hitSize:20
