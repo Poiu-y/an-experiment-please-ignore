@@ -49,6 +49,7 @@ weapons: [
     shoot: {
       shots: 3
       shotDelay: 10
+      firstShotDelay: 60
     }
     bullet: {
       type: BasicBulletType
@@ -65,6 +66,7 @@ weapons: [
     shoot: {
       shots: 1
       shotDelay: 90
+      firstShotDelay: 90
     }
     bullet: {
       type: BasicBulletType
