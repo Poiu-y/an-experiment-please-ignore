@@ -41,7 +41,7 @@ engines: [
 weapons: [
   {
     x: 0
-    y: -2
+    y: -3
     name: false-air-second-turret
     mirror: false
     rotate: true
