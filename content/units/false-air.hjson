@@ -32,7 +32,7 @@ weapons: [
     rotate: true
     shoot: {
       shots: 3
-      shotDelay: 70
+      shotDelay: 10
     }
     bullet: {
       type: BasicBulletType
@@ -54,8 +54,7 @@ weapons: [
       type: BasicBulletType
       damage: 40
       lifetime: 70
-      width: 1
-      height: 40
+      height: 20
       pierce: true
       pierceCap: 6
       pierceBuilding: true
