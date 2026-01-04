@@ -34,5 +34,32 @@ weapons: [
       shots: 3
       shotDelay: 8
     }
+    bullet: {
+      type: BasicBulletType
+      damage: 25
+      lifetime: 40
+    }
+  }
+  {
+    x: 0
+    y: 1
+    name: false-air-primary-turret
+    mirror: false
+    rotate: true
+    shoot: {
+      shots: 1
+      shotDelay: 9
+    }
+    bullet: {
+      type: BasicBulletType
+      damage: 40
+      lifetime: 70
+      width: 20
+      height: 40
+      pierce: true
+      pierceCap: 6
+      pierceBuilding: true
+      buildingDamageMultiplier: 1.25
+    }
   }
 ]
