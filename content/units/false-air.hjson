@@ -18,7 +18,7 @@ hovering:false
 isEnemy:false
 legCount:6
 legSpeed:0.05
-legForwardScl: -6
+legForwardScl: -0.5
 legGroupSize: 3
 legBaseOffset:4.9
 #legStraightLength:3
