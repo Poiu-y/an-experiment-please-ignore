@@ -1,4 +1,5 @@
 name:"fin air"
+type:legs
 description: "a test of game mechanics, just a placeholder"
 details:"(if this works, some mechanics of this might be added to ich at some point)"
 hideDetails:false
