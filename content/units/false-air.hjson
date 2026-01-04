@@ -20,7 +20,7 @@ legCount:6
 legSpeed:0.05
 legForwardScl: 1
 legGroupSize: 3
-legBaseOffset:5
+legBaseOffset:4.9
 #legStraightLength:3
 legLength: 20
 lockLegBase: true
