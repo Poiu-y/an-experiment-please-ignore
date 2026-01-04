@@ -46,10 +46,10 @@ weapons: [
     name: false-air-second-turret
     mirror: false
     rotate: true
+    reload: 36
     shoot: {
       shots: 3
       shotDelay: 10
-      firstShotDelay: 60
     }
     bullet: {
       type: BasicBulletType
@@ -63,10 +63,10 @@ weapons: [
     name: false-air-primary-turret
     mirror: false
     rotate: true
+    reload: 60
     shoot: {
       shots: 1
       shotDelay: 90
-      firstShotDelay: 90
     }
     bullet: {
       type: BasicBulletType
