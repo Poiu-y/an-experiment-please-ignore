@@ -6,7 +6,7 @@ hideDetails:false
 speed:2
 health:260
 commands:[move, repair, rebuild, assist]
-armor:1
+armor:2
 flying:true
 mineTier:1
 mineFloor:true
@@ -23,3 +23,16 @@ itemCapacity:10
 outlineColor:00413c
 hitSize:40
 researchCostMultiplier:0
+weapons: [
+  {
+    x: 0
+    y: -1
+    name: false-air-second-turret
+    mirror: false
+    rotate: true
+    shoot: {
+      shots: 3
+      shotDelay: 8
+    }
+  }
+]
