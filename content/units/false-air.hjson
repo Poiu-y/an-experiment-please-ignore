@@ -26,7 +26,7 @@ researchCostMultiplier:0
 weapons: [
   {
     x: 0
-    y: -9
+    y: -1
     name: false-air-second-turret
     mirror: false
     rotate: true
@@ -42,7 +42,7 @@ weapons: [
   }
   {
     x: 0
-    y: 2
+    y: 3
     name: false-air-primary-turret
     mirror: false
     rotate: true
@@ -54,7 +54,7 @@ weapons: [
       type: BasicBulletType
       damage: 40
       lifetime: 70
-      width: 20
+      width: 1
       height: 40
       pierce: true
       pierceCap: 6
