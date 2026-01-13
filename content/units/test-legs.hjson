@@ -33,7 +33,7 @@ pickupUnits: true
 
 
 
-allowLegStep:true
-legPhysicsLayer:false
+#allowLegStep:true
+legPhysicsLayer:true
 #legRegion: test-legs-leg
 #legBaseRegion: test-legs-leg-base
