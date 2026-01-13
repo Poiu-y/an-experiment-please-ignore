@@ -1,5 +1,6 @@
-#type:payload
-type:legs
+type:payload
+#type:legs
+
 name:no
 description: "a test of game mechanics, just a placeholder"
 details:"(if this works, some mechanics of this will be added to ich at some point)"
@@ -29,7 +30,10 @@ alwaysUnlocked:true
 payloadCapacity: 3000
 pickupUnits: true
 canBoost:true
-#allowLegStep:true
-#legPhysicsLayer:true
+
+
+
+allowLegStep:true
+legPhysicsLayer:true
 #legRegion: test-legs-leg
 #legBaseRegion: test-legs-leg-base
