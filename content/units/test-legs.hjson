@@ -29,7 +29,7 @@ researchCostMultiplier:0
 alwaysUnlocked:true
 payloadCapacity: 3000
 pickupUnits: true
-canBoost:true
+#canBoost:true
 
 
 
